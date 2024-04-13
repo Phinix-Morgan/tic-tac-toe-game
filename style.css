@@ -71,9 +71,9 @@ body{
 .hide{
 	display: none;
 }
-h3{
-	color:brown;
-	font-size: 20px;
+h4{
+	color:#535151;
+	font-size: 18px;
 	margin-bottom: 30px;
-	margin-top: 18px;
+	margin-top: 130px;
 }
